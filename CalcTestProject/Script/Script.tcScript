@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="GoodTestUnit" key="{8BB05E1B-0A8B-4AB3-B554-025E8F096ACE}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="GoodTestUnit.js" />
+		</child>
+		<child name="BadTestUnit" key="{15892405-F997-4B2D-9494-508D2B0D149A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="BadTestUnit.js" />
+		</child>
+		<child name="Functions" key="{145CFF6F-E777-44D5-87CC-0E93F18063D2}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Functions.js" />
+		</child>
+	</children>
+	<folders />
+</Root>
